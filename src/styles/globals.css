@@ -1,0 +1,7 @@
+.suggestion-text {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  white-space: pre;
+  pointer-events: none;
+}
